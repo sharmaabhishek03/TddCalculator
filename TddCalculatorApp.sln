@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculatorApp", "TddCalc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculatorApp.library", "TddCalculatorApp.library\TddCalculatorApp.library.csproj", "{C6E06C7E-8966-446B-BF18-9EF979F883F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculatorApp.test", "TddCalculatorApp.test\TddCalculatorApp.test.csproj", "{3103BBF2-C7E3-40C9-A76C-0C014BA20C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C6E06C7E-8966-446B-BF18-9EF979F883F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6E06C7E-8966-446B-BF18-9EF979F883F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6E06C7E-8966-446B-BF18-9EF979F883F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3103BBF2-C7E3-40C9-A76C-0C014BA20C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3103BBF2-C7E3-40C9-A76C-0C014BA20C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3103BBF2-C7E3-40C9-A76C-0C014BA20C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3103BBF2-C7E3-40C9-A76C-0C014BA20C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

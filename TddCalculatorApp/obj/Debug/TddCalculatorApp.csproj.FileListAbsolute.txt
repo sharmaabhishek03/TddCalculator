@@ -1,0 +1,6 @@
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp\bin\Debug\TddCalculatorApp.exe.config
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp\bin\Debug\TddCalculatorApp.exe
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp\bin\Debug\TddCalculatorApp.pdb
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp\obj\Debug\TddCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp\obj\Debug\TddCalculatorApp.exe
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp\obj\Debug\TddCalculatorApp.pdb

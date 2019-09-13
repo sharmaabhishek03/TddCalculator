@@ -1,0 +1,6 @@
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp.library\bin\Debug\TddCalculatorApp.library.dll
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp.library\bin\Debug\TddCalculatorApp.library.pdb
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp.library\obj\Debug\TddCalculatorApp.library.csprojAssemblyReference.cache
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp.library\obj\Debug\TddCalculatorApp.library.csproj.CoreCompileInputs.cache
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp.library\obj\Debug\TddCalculatorApp.library.dll
+C:\Abhishek_Training\WEB API\TddCalculatorApp\TddCalculatorApp.library\obj\Debug\TddCalculatorApp.library.pdb
