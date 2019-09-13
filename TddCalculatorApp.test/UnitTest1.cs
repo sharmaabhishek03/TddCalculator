@@ -18,5 +18,16 @@ namespace TddCalculatorApp.test
             Assert.AreEqual(5, result, "Testing two Integer 3 and 2");
 
         }
+        [TestMethod]
+        public void ShouldReturnZeroOnPassingPairOfSamePositiveAndNegativeNumber()
+        {
+            Calculator testCalculator = new Calculator();
+            int num1 = +3;
+            int num2 = -3;
+            int result;
+            result = testCalculator.Add(num1, num2);
+            Assert.AreEqual(0, result, "Testing two Integer +3 and-3");
+
+        }
     }
 }
